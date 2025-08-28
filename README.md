@@ -46,4 +46,18 @@ O dataset utilizado contém **200 clientes** e possui as seguintes variáveis:
 
 ---
 
-## 📂 Estrutura do Projeto  
+## 🚀 Tecnologias Utilizadas  
+- **Python**  
+- **Pandas, Numpy** → manipulação de dados  
+- **Matplotlib, Seaborn, Plotly** → visualização  
+- **Scikit-learn** → modelagem (K-Means, StandardScaler, LabelEncoder)  
+
+---
+
+## 📌 Conclusão  
+Esse projeto mostrou como **modelos de clustering podem auxiliar na segmentação de clientes**, trazendo insights que permitem desenvolver estratégias de marketing mais precisas e eficazes.  
+
+📢 Próximos passos podem incluir:  
+- Testar diferentes valores de **k** com o método do cotovelo/silhouette score  
+- Adicionar novas variáveis (ex.: histórico de compras, frequência de visitas)  
+- Comparar outros algoritmos de clustering como **DBSCAN** e **Agglomerative Clustering**  
